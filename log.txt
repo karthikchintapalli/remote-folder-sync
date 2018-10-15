@@ -1,0 +1,45 @@
+2017-03-22 17:27:53.485182
+index longlist
+
+2017-03-22 17:28:00.347129
+index regex test.*
+
+2017-03-22 17:28:12.637557
+hash verify testfile1
+
+2017-03-22 17:28:15.599334
+exit
+
+2017-03-22 18:57:13.485933
+index longlist
+
+2017-03-22 18:57:23.201639
+download tcp testfile1
+
+2017-03-22 18:59:16.562428
+download tcp testfile1
+
+2017-03-31 19:14:50.471579
+index longlist
+
+2017-03-31 19:15:43.774227
+index shortlist 22/03/2017-10:00:00 22/03/2017-14:00:00
+
+2017-03-31 19:16:09.190534
+index shortlist 22/03/2017-10:00 22/03/2017-14:00
+
+2017-03-31 19:16:19.638513
+index regex test.*
+
+2017-03-31 19:16:28.831581
+hash checkall
+
+2017-03-31 19:16:46.072382
+download TCP testfile1
+
+2017-03-31 19:16:54.831096
+download tcp testfile1
+
+2017-03-31 19:17:48.195782
+download udp testfile2
+
